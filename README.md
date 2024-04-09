@@ -13,7 +13,7 @@ Apresentar um relatório completo no Power Bi, com diversos gráficos, cartões,
 [![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=FFDD02)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 <br>
 
-## Instrutora
+## Desenvolvedor
 <table>
   <tr>
     <td>
@@ -36,6 +36,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para d
 
 ## Conecte-se Comigo
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/eduardopedrosap)
 <a href = "https://www.instagram.com/eduardo_01511/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/eduardo-pedrosap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
