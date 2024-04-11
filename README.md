@@ -24,7 +24,7 @@ Apresentar um relatório completo no Power Bi, com diversos gráficos, cartões,
         <span><b>Eduardo Pedrosa</b></span>
       </a>
       <br>
-      <span>Analytics Engineer</span>
+      <span>Analista de Dados e BI</span>
     </td>
   </tr>
 </table>
